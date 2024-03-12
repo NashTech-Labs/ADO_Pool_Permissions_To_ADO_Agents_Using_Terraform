@@ -5,13 +5,11 @@ variable "adotoken_VV" {
 
 variable "organization_service_url_VV" {
   type        = string
-  default     = "https://dev.azure.com/DCTEng"
   description = "Organisation Service URL"
 }
 
 variable "project_name_VV" {
   type        = string
-  default     = "Duck Creek"
   description = "Name of Project"
 }
 
