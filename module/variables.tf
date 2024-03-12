@@ -18,4 +18,3 @@ variable "agent_pool_name_VV" {
   description = "Name of ADO Pool"
 }
 
-
