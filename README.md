@@ -1,7 +1,6 @@
 # Description
 Here, In this template, we will provisioning all the ADO Agents to access the specific ADO Pool in the Azure DevOps (ADO) using the terraform module. 
 
-
 ---
 
 ### Pre-Requisite
